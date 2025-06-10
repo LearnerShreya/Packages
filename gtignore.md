@@ -1,4 +1,4 @@
-
+## gtignore command
 
 ### Step 1: Create the ignore file
 
